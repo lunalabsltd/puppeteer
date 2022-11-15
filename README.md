@@ -1,0 +1,1 @@
+This is a puppeteer@6 with this patch applied - https://github.com/puppeteer/puppeteer/pull/7099/files to fix installation on Mac M1. puppeteer@6 is the only known version which produces the same screenshots across different OS and doesn't randomly produce blank screenshots.
